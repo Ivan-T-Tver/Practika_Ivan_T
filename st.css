@@ -1,0 +1,64 @@
+
+
+body 
+{
+	background-color: gray;
+}
+
+#div_left 
+{
+	font-family: Times New Roman;
+	background-color: #D8E1FF;
+	bolder-width: 2px;
+	border-style: solid;
+	border-color: blue;
+	border-radius: 20px;
+	font-size: 20px;
+	
+	position: absolute; left: 10px; top: 10px;
+	width: 20%;
+	height: 35em;
+}
+
+#div_centr 
+{
+	font-family: Times New Roman;
+	background-color: #D8E1FF;
+	bolder-width: 2px;
+	border-style: solid;
+	border-color: blue;
+	border-radius: 20px;
+	font-size: 20px;
+	
+	margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+	height: 50em;
+}
+
+#div_right 
+{
+	font-family: Times New Roman;
+	background-color: white;
+	bolder-width: 6px;
+	border-style: double;
+	
+	position: absolute; right: 10px; top: 10px;
+	width: 20%;
+	height: 25em;
+}
+
+.text
+{
+	font-weight: bold;
+}
+
+.comment
+{
+	font-style:  italic;
+}
+
+
+
+
+
